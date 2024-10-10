@@ -43,7 +43,6 @@ The dataset includes the following columns:
    - **Result:** No significant difference found in BMI distributions between males and females.
 
 ## Files Included:
-- **D599 Task 2_ Data Exploration.pdf:** Contains the analysis, statistical test results, and visualizations.
 - **Jupyter Notebooks:** Code used for data analysis and hypothesis testing.
 - **Images:** Visual representations used in the analysis.
   - BMI_vs_Charges1.jpeg
